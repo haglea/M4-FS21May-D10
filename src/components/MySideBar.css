@@ -1,0 +1,17 @@
+#sideNav {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    margin-left: 0;    
+  }
+  
+ 
+
+.nav-link {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
